@@ -12,7 +12,7 @@ To create this car I used: Arduino uno board, motors controller, two distance se
 * C++
 
 ## Project Status
-Ready
+- Ready
 
 ## Usage
 - The car starts to move forward and keeps going, but when one of its sensors detects an obstacle, it reverses and turns around. The car then drives forward until it encounters an obstacle and repeats the action.
